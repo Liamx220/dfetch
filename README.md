@@ -12,7 +12,10 @@ git clone https://github.com/Liamx220/dfetch.git
 ```
 cd into the dfetch folder in whatever direction you cloned the repo to
 ```sh
-cd /home/exaple/Documents/dfetch
+cd /home/example/Documents/dfetch
 ```
-
+Install the dependencies
+```sh
+pip3 install -r requirements.txt
+```
 
