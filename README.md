@@ -18,4 +18,7 @@ Install the dependencies
 ```sh
 pip3 install -r requirements.txt
 ```
-
+Run the program
+```sh
+./dfetch.sh
+```
