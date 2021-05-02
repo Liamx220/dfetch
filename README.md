@@ -5,7 +5,9 @@ A simple command-line system information tool written in python3
 
 ## Installation
 
+Clone the repo with the command below
 ```git
 git clone https://github.com/Liamx220/dfetch.git
 ```
+
 
