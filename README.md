@@ -6,9 +6,13 @@ A simple command-line system information tool written in python3
 ## Installation
 dfetch requires [Python3](https://www.python.org/) to run.
 
-Clone the repo with the command below
+Clone the repo to with the command below
 ```git
 git clone https://github.com/Liamx220/dfetch.git
+```
+cd into the dfetch folder in whatever direction you cloned the repo to
+```sh
+cd /home/exaple/Documents/dfetch
 ```
 
 
